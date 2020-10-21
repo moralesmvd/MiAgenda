@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiAgenda</string>
+    <string name="Nombre">Kerberos M</string>
+    <string name="Telefono">099876567</string>
+    <string name="Email">kero@sakura.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
